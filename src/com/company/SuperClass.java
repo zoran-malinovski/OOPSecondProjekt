@@ -6,5 +6,6 @@ public class SuperClass {
 
     //second line test from branch NewBranch02
 
+    //third line test form branch
 }
 
